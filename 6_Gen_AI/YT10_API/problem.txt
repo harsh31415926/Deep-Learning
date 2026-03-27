@@ -1,0 +1,3 @@
+- .env was not in the same folder 
+- did  not install sse_starlette
+- app.py should run before client.py 

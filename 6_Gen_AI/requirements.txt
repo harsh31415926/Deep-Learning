@@ -1,0 +1,14 @@
+streamlit
+langchain
+langchain-core
+langchain-community
+langchain-openai
+langchain-groq
+langserve
+fastapi
+uvicorn
+python-dotenv
+sse_starlette
+bs4
+pypdf
+ChromaDB
