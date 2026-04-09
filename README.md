@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-=======
 # Deep Learning Repository
 
 ## Overview
